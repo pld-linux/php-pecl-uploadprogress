@@ -8,7 +8,8 @@ Release:	0.1
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
-URL:		http://pecl.php.net/package/Modname/
+# Source0-md5:	2f1d00cf3fe6b6e0260918d74de5820b
+URL:		http://pecl.php.net/package/uploadprogress/
 BuildRequires:	php-devel >= 5.2.0
 BuildRequires:	rpmbuild(macros) >= 1.344
 %{?requires_php_extension}
