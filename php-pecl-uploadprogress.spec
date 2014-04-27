@@ -5,7 +5,7 @@ Summary:	%{modname} - An extension to track progress of a file upload
 Summary(pl.UTF-8):	%{modname} - rozszerzenie do śledzenia postępu przesyłania pliku
 Name:		%{php_name}-pecl-%{modname}
 Version:	1.0.3.1
-Release:	5
+Release:	6
 License:	PHP 3.01
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{modname}-%{version}.tgz
